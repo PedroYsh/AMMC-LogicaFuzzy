@@ -1,4 +1,4 @@
-#Logica Fuzzy
+
 O problema escolhido para o desenvolvimento do protótipo é para
 avaliar o desempenho de uma empresa com base em quatro variáveis de
 entrada: Lucro Líquido Trimestral, Nível de Satisfação do Cliente, Eficiência
